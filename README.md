@@ -1,9 +1,9 @@
 ### Hi there 👋
--fk calculus
--fk data structure
--fk logic design 
--fk my dream
--corgi is fucking cute
+fk calculus</br>
+fk data structure</br>
+fk logic design </br>
+fk my dream</br>
+corgi is fucking cute</br>
 
 <!--
 **calculusfkyou/calculusfkyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
