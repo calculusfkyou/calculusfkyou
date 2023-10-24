@@ -12,6 +12,6 @@
 # Current Status
 A spontaneous SE student now.
 ## Recent to-do
-- [ ] [immerse oneself in exercises](https://github.com/calculusfkyou/UVApractice)
+- [ ] [immerse myself in exercises](https://github.com/calculusfkyou/UVApractice)
 - [ ] study tensorflow2 & keras
 - [ ] going on my LOL Rank
