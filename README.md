@@ -1,9 +1,8 @@
-## Hi there 👋
->fk calculus</br>
->>fk data structure</br>
->>>fk logic design </br>
-fk my dream</br>
-corgi is fucking cute</br>
+## A student who is a newcomer to software engineering
+* 🔭 I’m currently working on：object oriented project
+* 🌱 I’m currently learning：deep learning & soft engineering
+* 📫 How to reach me：charlie930320@gmail.com
+
 
 <!--
 **calculusfkyou/calculusfkyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
