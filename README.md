@@ -1,7 +1,7 @@
 <h1 align="center">A student who is a newcomer to software engineering</h1>
-* 🔭 I’m currently working on：object oriented project
-* 🌱 I’m currently learning：deep learning & soft engineering
-* 📫 How to reach me：charlie930320@gmail.com
+- 🔭 I’m currently working on：object oriented project
+- 🌱 I’m currently learning：deep learning & soft engineering
+- 📫 How to reach me：charlie930320@gmail.com
 
 
 <!--
