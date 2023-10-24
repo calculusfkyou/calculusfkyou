@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on：object oriented project
 
 - 🌱 I’m currently learning：deep learning & soft engineering
-- 
+  
 - 📫 How to reach me：charlie930320@gmail.com
 
 ## Languages and Tools：
