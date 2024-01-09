@@ -15,4 +15,4 @@ A spontaneous SE student now.
 - [ ] [immerse myself in exercises](https://github.com/calculusfkyou/UVApractice)
 - [ ] study tensorflow2 & keras
 - [ ] [myPersonalWeb](https://calculusfkyou.github.io/MyWebsite/)
-- [ ] going on my LOL Rank
+- [X] going on my LOL Rank
