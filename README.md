@@ -1,20 +1,42 @@
-<h1 align="center">A student who is a newcomer to software engineering</h1>
+# Hi, I'm Charlie
 
-- 🔭 I’m currently working on：object oriented project
+Graduate student from Taiwan with a background in software engineering, focused on medical imaging, AI, and fairness-aware machine learning.
 
-- 🌱 I’m currently learning：deep learning & soft engineering
-  
-- 📫 How to reach me：charlie930320@gmail.com
+I am currently pursuing an M.S. in Data Science and Engineering at National Yang Ming Chiao Tung University (NYCU). My research interests include medical image analysis, artificial intelligence, and model fairness.
 
-# The One and the Only GPG Finger Print <br>[`23A1 E5E1 D24E 9308 7DB7 79E4 DCF6 A1DB 06D3 99BD`](https://github.com/calculusfkyou.gpg)
+## About Me
 
-### Languages and Tools：
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> <a href="https://www.java.com/zh-TW/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/zh/8/88/Java_logo.png" alt="java" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://xcbeyond.cn/golang-handbook/introduction/golang.jpg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="MySQL" width="40" height="40"/> </a></p>
+- M.S. student in Data Science and Engineering at NYCU
+- B.S. in Software Engineering and Management from National Kaohsiung Normal University (NKNU)
+- Interested in medical imaging, AI, image processing, and fairness in machine learning models
+- Background in software development, software engineering practices, process management, and agile software engineering
 
-# Current Status
-A spontaneous SE student now.
-## Recent to-do
-- [ ] [immerse myself in exercises](https://github.com/calculusfkyou/UVApractice)
-- [ ] study tensorflow2 & keras
-- [ ] [myPersonalWeb](https://calculusfkyou.github.io/MyWebsite/)
-- [X] going on my LOL Rank
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+
+### Tools and Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+## Current Focus
+
+- Medical image analysis
+- AI model development and evaluation
+- Fairness-aware machine learning
+- Software engineering practices and development process management
+
+## Contact
+
+- Email: [charlie930320@gmail.com](mailto:charlie930320@gmail.com)
+- GPG fingerprint: [`23A1 E5E1 D24E 9308 7DB7 79E4 DCF6 A1DB 06D3 99BD`](https://github.com/calculusfkyou.gpg)
